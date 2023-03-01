@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gemfica</string>
+    <string name="valo">Valorang</string>
+    <string name="valo_desc">Valorant (bergaya sebagai VALORANT) adalah permainan video POP (penembak orang pertama) taktis multipemain gratis yang dikembangkan dan diterbitkan oleh Riot Games, untuk Microsoft Windows. Pertama kali menggoda dengan nama kode Project A pada Oktober 2019, permainan memulai periode beta tertutup dengan akses terbatas pada 7 April 2020, diikuti dengan perilisan resmi pada 2 Juni 2020. Pengembangan permainan dimulai pada 2014.</string>
+    <string name="my_name">Muhammad Zidan Tifanno N</string>
+    <string name="my_email">zidantifano@gmail.com</string>
+    <string name="external_link_button">Play Game</string>
+    <string name="banner">Banner Detail</string>
+
+
+</resources>
